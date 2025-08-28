@@ -1,6 +1,6 @@
 # SpecSwin3D
 
-SpecSwin3D is a deep learning project for hyperspectral image band reconstruction, band importance analysis, and visualization. It provides tools for preprocessing, training, evaluation, and visualization of models, with a focus on spectral band selection and reconstruction using Swin-UNETR architectures.
+SpecSwin3D is a deep learning project for hyperspectral image band reconstruction, band importance analysis, and visualization. It provides tools for preprocessing, training, evaluation, and visualization of models, with a focus on spectral band selection and reconstruction.
 
 ## Project Structure
 
@@ -39,7 +39,7 @@ SpecSwin3D/
 
 ## Key Scripts
 
-- `train_SpecSwin3D_16.py`: Main training script for the Swin-UNETR model with 16 input bands.
+- `train_SpecSwin3D_16.py`: Main training script for the SpecSwin3D model with 16 input bands.
 - `calculate_band_importance.py`: Analyze and rank the importance of spectral bands using various methods (variance, correlation, mutual information, spectral physics).
 - `denormalize_utils.py`: Utilities for denormalizing predictions and batches.
 - `evaluate_models.py`: Evaluate trained models on test data.
