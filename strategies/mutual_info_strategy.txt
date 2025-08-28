@@ -1,0 +1,7 @@
+strategy_name: mutual_info_importance
+
+level_0: 29, 30, 28, 27, 31, 26, 32, 9, 18
+level_1: 19, 25, 16
+level_2: 15, 17, 14, 10, 8, 20, 24
+level_3: 11, 13, 12
+level_4: 23, 21, 22, 33, 7, 47, 48

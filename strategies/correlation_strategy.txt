@@ -1,0 +1,7 @@
+strategy_name: correlation_importance
+
+level_0: 35, 20, 21, 22, 19, 23, 24, 16, 25
+level_1: 15, 18, 17
+level_2: 26, 14, 27, 13, 29, 12, 28
+level_3: 30, 11, 31
+level_4: 33, 32, 10, 9, 34, 8, 36

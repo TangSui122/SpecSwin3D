@@ -1,0 +1,7 @@
+strategy_name: spectral_physics_importance
+
+level_0: 80, 82, 83, 84, 81, 103, 70, 71, 72
+level_1: 73, 74, 75
+level_2: 76, 77, 78, 79, 85, 86, 87
+level_3: 88, 89, 90
+level_4: 91, 92, 93, 95, 96, 97, 98
